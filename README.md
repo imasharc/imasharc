@@ -11,13 +11,15 @@
 
 - 👨‍💻 All of my projects are available at **[my github](https://github.com/imasharc)**. You're already there 😉
 
-- 💬 Ask me about **Java, Nodejs, Databases,...**
+- 💬 Ask me about **ANYTHING?**
 
 - 📫 How to reach me? **antonimalinowski.kontakt@gmail.com**
 
 - 📄 Know about my experiences **[from my CV](https://pejot-my.sharepoint.com/:b:/g/personal/s20824_pjwstk_edu_pl/EWaCOv3_tBlJlKOQjpJIvv4BvWDdu3WwIesaoMKR1jX34A?e=ZBcPuw)**
 
-- ⚡ Fun fact **I'm pretty good at Sudoku 🔢 & [I'm a part](https://pejot-my.sharepoint.com/:i:/g/personal/s20824_pjwstk_edu_pl/EbnMCfSgGRtKumqFbKY4pJQBE4W4ihiKIFBOhT-wSYtubA?e=5M9Xg9) of [Open Cages Poland](https://www.otwarteklatki.pl/)**
+- ⚡ Fun fact 1 **I'm pretty good at Sudoku 🔢**
+
+- ⚡ Fun fact 2 **I'm a part of [Open Cages Poland](https://www.otwarteklatki.pl/) -> <a href="https://pejot-my.sharepoint.com/:i:/g/personal/s20824_pjwstk_edu_pl/EbnMCfSgGRtKumqFbKY4pJQBE4W4ihiKIFBOhT-wSYtubA?e=5M9Xg9" target="_blank">where am I?</a> 🧐**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
