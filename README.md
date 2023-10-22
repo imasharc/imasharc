@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm a sharc (not really though)</h1>
+<h1 align="center">Hi 👋, I'm Antek (short for Antoni
+)</h1>
 <h3 align="center">A passionate backend & automation developer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imasharc&label=Profile%20views&color=0e75b6&style=flat" alt="imasharc" /> </p>
@@ -21,7 +22,7 @@
 <p align="left">
 <a href="https://www.instagram.com/antek.main" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="antoni-malinowski" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/antoni-malinowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antoni-malinowski" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/imasharc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="imasharc" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12322728/imasharc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="imasharc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
