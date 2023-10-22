@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Docker 🐳**
 
-- 👨‍💻 All of my projects are available at [https://github.com/imasharc](https://github.com/imasharc)
+- 👨‍💻 All of my projects are available at [my github](https://github.com/imasharc). You're already there 😉
 
 - 💬 Ask me about **Java, Nodejs, Databases,...**
 
