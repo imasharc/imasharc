@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact 1 **I'm pretty good at Sudoku 🔢**
 
-- ⚡ Fun fact 2 **I'm a part of [Open Cages Poland](https://www.otwarteklatki.pl/) -> <a href="https://pejot-my.sharepoint.com/:i:/g/personal/s20824_pjwstk_edu_pl/EbnMCfSgGRtKumqFbKY4pJQBE4W4ihiKIFBOhT-wSYtubA?e=5M9Xg9" target="_blank">where am I?</a> 🧐**
+- ⚡ Fun fact 2 **I'm a part of [Open Cages Poland](https://www.otwarteklatki.pl/) -> <a href="https://pejot-my.sharepoint.com/:i:/g/personal/s20824_pjwstk_edu_pl/EbnMCfSgGRtKumqFbKY4pJQBE4W4ihiKIFBOhT-wSYtubA?e=5M9Xg9" target="blank" alt="group photo of Open Cages Poland from CARE 2022">where am I?</a> 🧐**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
