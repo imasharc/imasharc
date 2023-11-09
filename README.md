@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Docker 🐳**
 
-- 👨‍💻 All of my projects are available at **[my github](https://github.com/imasharc)**. You're already there 😉
+- 👨‍💻 I'm also learning C **[and making some projects with it](https://github.com/imasharc/sharcio)**.
 
 - 💬 Ask me about **ANYTHING?**
 
