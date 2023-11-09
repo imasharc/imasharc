@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Antek (short for Antoni
-)</h1>
+<h1 align="center">Hi 👋, I'm Antoni (you can call me Antek)</h1>
 <h3 align="center">A passionate backend & automation developer from Poland</h3>
 <img align="right" alt="swimming shark gif" width="400" src="https://imgs.search.brave.com/TGldy7E6wxDZxgy3HEZggAPMDKOBHgilL_sI3mJunvo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9iZXN0/YW5pbWF0aW9ucy5j/b20vbWVkaWEvc2hh/cmtzLzc3NzQ1ODg4/MHNoYXJrLWFuaW1h/dGlvbi0xNC5naWY.gif">
 
@@ -11,9 +10,7 @@
 
 - 👨‍💻 I'm also learning C **[and making some projects with it](https://github.com/imasharc/sharcio)**.
 
-- 💬 Ask me about **ANYTHING?**
-
-- 📫 How to reach me? **antonimalinowski.kontakt@gmail.com**
+- 📫 How to reach me? **[@antek.main](https://www.instagram.com/antek.main/)**
 
 - 📄 Know about my experiences **[from my CV](https://pejot-my.sharepoint.com/:b:/g/personal/s20824_pjwstk_edu_pl/EWaCOv3_tBlJlKOQjpJIvv4BvWDdu3WwIesaoMKR1jX34A?e=ZBcPuw)**
 
