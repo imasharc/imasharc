@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend & automation developer from Poland</h3>
 <img align="right" alt="swimming shark gif" width="400" src="https://imgs.search.brave.com/TGldy7E6wxDZxgy3HEZggAPMDKOBHgilL_sI3mJunvo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9iZXN0/YW5pbWF0aW9ucy5j/b20vbWVkaWEvc2hh/cmtzLzc3NzQ1ODg4/MHNoYXJrLWFuaW1h/dGlvbi0xNC5naWY.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imasharc&label=Profile%20views&color=0e75b6&style=flat" alt="imasharc" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=imasharc&label=Profile%20views&color=0e75b6&style=flat" alt="imasharc" /> </p>-->
 
 - 🔭 I’m currently working on **[Modern Open-Source Social Media Platform](https://github.com/imasharc/ShaReCon)**
 
