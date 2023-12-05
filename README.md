@@ -8,15 +8,9 @@
 
 - 🌱 I’m currently learning **Docker 🐳**
 
-- 👨‍💻 I'm also learning C **[and making some projects with it](https://github.com/imasharc/sharcio)**.
+- 👨‍💻 I'm also learning python **[and making some projects with it](https://github.com/imasharc/screenrec)**.
 
-- 📫 How to reach me? **[@antek.main](https://www.instagram.com/antek.main/)**
-
-- 📄 Know about my experiences **[from my CV](https://pejot-my.sharepoint.com/:b:/g/personal/s20824_pjwstk_edu_pl/EWaCOv3_tBlJlKOQjpJIvv4BvWDdu3WwIesaoMKR1jX34A?e=ZBcPuw)**
-
-- ⚡ Fun fact 1 **I'm pretty good at Sudoku 🔢**
-
-- ⚡ Fun fact 2 **I'm a part of [Open Cages Poland](https://www.otwarteklatki.pl/) -> <a href="https://pejot-my.sharepoint.com/:i:/g/personal/s20824_pjwstk_edu_pl/Eb_DASN8Ag9GlaFyJ5xhb7ABz5lKp6EelyUvdHaJ72NMuQ?e=1AtlTd" target="blank" alt="group photo of Open Cages Poland from CARE 2022">me (hosting) on CARE 2022</a> 🤓**
+- ⚡ Fun facts **I'm pretty good at Sudoku 🔢** and **I'm a part of [Open Cages Poland](https://www.otwarteklatki.pl/) -> <a href="https://pejot-my.sharepoint.com/:i:/g/personal/s20824_pjwstk_edu_pl/Eb_DASN8Ag9GlaFyJ5xhb7ABz5lKp6EelyUvdHaJ72NMuQ?e=1AtlTd" target="blank" alt="group photo of Open Cages Poland from CARE 2022">me (hosting) on CARE 2022</a> 🤓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
