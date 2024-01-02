@@ -4,9 +4,9 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=imasharc&label=Profile%20views&color=0e75b6&style=flat" alt="imasharc" /> </p>-->
 
-- 🔭 I’m currently working on **[Modern Open-Source Social Media Platform](https://github.com/imasharc/ShaReCon)**
+- 🔭 I’m currently working on **[Modern Open-Source Social Media Platform](https://github.com/imasharc/ShaReCon)** as a part of the engineering diploma
 
-- 🌱 I’m currently learning **Docker 🐳**
+- 🌱 I’m currently learning **Machine Learning/Reinforcement Learning 🤖**
 
 - 👨‍💻 I'm also learning python **[and making some projects with it](https://github.com/imasharc/screenrec)**.
 
