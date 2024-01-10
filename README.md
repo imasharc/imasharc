@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/imasharc_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x account of imasharc" height="30" width="40" /></a>
+  <p align="left"> <a href="https://twitter.com/imasharc_" target="blank"><img src="https://img.shields.io/twitter/follow/imasharc_?logo=twitter&style=for-the-badge" alt="imasharc" /></a> </p>
 <a href="https://www.instagram.com/imasharc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram account of imasharc" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/antoni-malinowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin account of antoni malinowski" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12322728/imasharc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow account of imasharc" height="30" width="40" /></a>
@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imasharc&show_icons=true&locale=en" alt="imasharc" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imasharc&" alt="imasharc" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imasharc" alt="imasharc" /></a> </p>
