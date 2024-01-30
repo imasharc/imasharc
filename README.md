@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently working on **[Modern Open-Source Social Media Platform](https://github.com/imasharc/ShaReCon)** as a part of the **[engineering diploma](https://docs.google.com/document/d/12JScNMTtzE-o2z3nql9wiOhPe0rlIFG2sg1Z7jdcJ7Y/edit?usp=sharing)**
 
+- 🔭 I also worked on the research examining "What is interaction?". Again, as a part of my **[second engineering diploma](https://docs.google.com/document/d/17AJQL_IMtzzjW_aHN4ffiMa8D4T1-0m2qtFgQIwISM0/edit?usp=sharing)**
+
 - 🌱 I’m currently learning **Machine Learning/Reinforcement Learning 🤖**
 
 - 👨‍💻 I'm also learning python **[and making some projects with it](https://github.com/imasharc/screenrec)**.
