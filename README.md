@@ -4,13 +4,13 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=imasharc&label=Profile%20views&color=0e75b6&style=flat" alt="imasharc" /> </p>-->
 
-- 🔭 I’m currently working on **[Modern Open-Source Social Media Platform](https://github.com/imasharc/ShaReCon)** as a part of the **[engineering diploma](https://docs.google.com/document/d/12JScNMTtzE-o2z3nql9wiOhPe0rlIFG2sg1Z7jdcJ7Y/edit?usp=sharing)**
+- 🔭 I was working on **[Modern Open-Source Social Media Platform](https://github.com/imasharc/ShaReCon)** as a part of the **[engineering diploma](https://docs.google.com/document/d/12JScNMTtzE-o2z3nql9wiOhPe0rlIFG2sg1Z7jdcJ7Y/edit?usp=sharing)**
 
 - 🔭 I also worked on the research examining "What is interaction?". Again, as a part of my **[second engineering diploma](https://docs.google.com/document/d/17AJQL_IMtzzjW_aHN4ffiMa8D4T1-0m2qtFgQIwISM0/edit?usp=sharing)**
 
 - 🌱 I’m currently learning **Machine Learning/Reinforcement Learning 🤖**
 
-- 👨‍💻 I'm also learning python **[and making some projects with it](https://github.com/imasharc/screenrec)**.
+- 👨‍💻 I'm also learning Go and Svelte **[and making free API access with them](https://github.com/imasharc/sharcAPI_clientLab)**.
 
 - ⚡ Fun facts **I'm pretty good at Sudoku 🔢** and **I'm a part of [Open Cages Poland](https://www.otwarteklatki.pl/) -> <a href="https://pejot-my.sharepoint.com/:i:/g/personal/s20824_pjwstk_edu_pl/Eb_DASN8Ag9GlaFyJ5xhb7ABz5lKp6EelyUvdHaJ72NMuQ?e=1AtlTd" target="blank" alt="group photo of Open Cages Poland from CARE 2022">me (hosting) on CARE 2022</a> 🤓**
 
