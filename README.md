@@ -2,8 +2,6 @@
 <h3 align="center">A passionate backend & automation developer from Poland</h3>
 <img align="right" alt="swimming shark gif" width="400" src="https://imgs.search.brave.com/TGldy7E6wxDZxgy3HEZggAPMDKOBHgilL_sI3mJunvo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9iZXN0/YW5pbWF0aW9ucy5j/b20vbWVkaWEvc2hh/cmtzLzc3NzQ1ODg4/MHNoYXJrLWFuaW1h/dGlvbi0xNC5naWY.gif">
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=imasharc&label=Profile%20views&color=0e75b6&style=flat" alt="imasharc" /> </p>-->
-
 - 🔭 I was working on **[Modern Open-Source Social Media Platform](https://github.com/imasharc/ShaReCon)** as a part of the **[engineering diploma](https://docs.google.com/document/d/12JScNMTtzE-o2z3nql9wiOhPe0rlIFG2sg1Z7jdcJ7Y/edit?usp=sharing)**
 
 - 🔭 I also worked on the research examining "What is interaction?". Again, as a part of my **[second engineering diploma](https://docs.google.com/document/d/17AJQL_IMtzzjW_aHN4ffiMa8D4T1-0m2qtFgQIwISM0/edit?usp=sharing)**
