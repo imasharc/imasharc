@@ -10,7 +10,7 @@
 
 - 👨‍💻 I'm also learning Go and Svelte **[and making free API access with them](https://github.com/imasharc/sharcAPI_clientLab)**.
 
-- ⚡ Fun facts **I'm pretty good at Sudoku 🔢** and **I'm a part of [Open Cages Poland](https://www.otwarteklatki.pl/) -> <a href="https://pejot-my.sharepoint.com/:i:/g/personal/s20824_pjwstk_edu_pl/Eb_DASN8Ag9GlaFyJ5xhb7ABz5lKp6EelyUvdHaJ72NMuQ?e=1AtlTd" target="blank" alt="group photo of Open Cages Poland from CARE 2022">me (hosting) on CARE 2022</a> 🤓**
+- ⚡ Fun facts **I'm pretty good at Sudoku 🔢** and **I was a part of [Open Cages Poland](https://www.otwarteklatki.pl/) -> <a href="https://pejot-my.sharepoint.com/:i:/g/personal/s20824_pjwstk_edu_pl/Eb_DASN8Ag9GlaFyJ5xhb7ABz5lKp6EelyUvdHaJ72NMuQ?e=1AtlTd" target="blank" alt="group photo of Open Cages Poland from CARE 2022">me (hosting) on CARE 2022</a> 🤓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
