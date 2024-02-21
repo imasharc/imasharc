@@ -4,7 +4,7 @@
 
 - 🔭 I was working on **[Modern Open-Source Social Media Platform](https://github.com/imasharc/ShaReCon)** as a part of the **[engineering diploma](https://docs.google.com/document/d/12JScNMTtzE-o2z3nql9wiOhPe0rlIFG2sg1Z7jdcJ7Y/edit?usp=sharing)**
 
-- 🌱 I’m currently specializing in **Software engineering and [Multimedia](https://docs.google.com/document/d/17AJQL_IMtzzjW_aHN4ffiMa8D4T1-0m2qtFgQIwISM0/edit?usp=sharing)**
+- 🌱 I’m currently specializing in **Software engineering**
 
 - 🔍 I'm also exploring digital art through the lense of human vs computer creation process - <b>What makes art meaningful - The end result or the process?<b>
 
