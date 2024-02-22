@@ -4,9 +4,11 @@
 
 - 🔭 I was working on **[Modern Open-Source Social Media Platform](https://github.com/imasharc/ShaReCon)** as a part of the **[engineering diploma](https://docs.google.com/document/d/12JScNMTtzE-o2z3nql9wiOhPe0rlIFG2sg1Z7jdcJ7Y/edit?usp=sharing)**
 
-- 🌱 I’m currently specializing in **Software engineering**
+- 🛠️ I’m currently specializing in **Software engineering**
 
 - 🔍 I'm also exploring digital art through the lense of human vs computer creation process - <b>What makes art meaningful - The end result or the process?<b>
+
+- 🛡️ I am planning to shift my focus towards **Cybersecurity**
 
 - ⚡ Fun facts **I'm pretty good at Sudoku 🔢** and **I was a part of [Open Cages Poland](https://www.otwarteklatki.pl/) -> <a href="https://pejot-my.sharepoint.com/:i:/g/personal/s20824_pjwstk_edu_pl/Eb_DASN8Ag9GlaFyJ5xhb7ABz5lKp6EelyUvdHaJ72NMuQ?e=1AtlTd" target="blank" alt="group photo of Open Cages Poland from CARE 2022">me (hosting) on CARE 2022</a> 🤓**
 
