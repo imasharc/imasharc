@@ -6,7 +6,7 @@
 
 - 🛠️ I’m currently specializing in **Software engineering**
 
-- 🔍 I'm also exploring digital art through the lense of human vs computer creation process - <b>What makes art meaningful - The end result or the process?<b>
+- 🔍 I'm also interested in the topic of interaction - <b>especially semantics of social and digital interaction<b>
 
 - 🛡️ I am planning to shift my focus towards **Cybersecurity**
 
