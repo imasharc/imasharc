@@ -8,7 +8,7 @@
 
 - 🔍 I'm also interested in the topic of interaction - <b>especially semantics of social and digital interaction<b>
 
-- 🛡️ I am planning to shift my focus towards **Cybersecurity - Secure App Engineering**
+- 🤖 I am planning to shift my focus towards **Data Science**
 
 - ⚡ Fun facts **I'm pretty good at Sudoku 🔢** and **I was a part of [Open Cages Poland](https://www.otwarteklatki.pl/) -> <a href="https://pejot-my.sharepoint.com/:i:/g/personal/s20824_pjwstk_edu_pl/Eb_DASN8Ag9GlaFyJ5xhb7ABz5lKp6EelyUvdHaJ72NMuQ?e=1AtlTd" target="blank" alt="group photo of Open Cages Poland from CARE 2022">me (hosting) on CARE 2022</a> 🤓**
 
