@@ -2,9 +2,9 @@
 <h3 align="center">A passionate backend & database developer from Poland</h3>
 <img align="right" alt="swimming shark gif" width="400" src="https://imgs.search.brave.com/TGldy7E6wxDZxgy3HEZggAPMDKOBHgilL_sI3mJunvo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9iZXN0/YW5pbWF0aW9ucy5j/b20vbWVkaWEvc2hh/cmtzLzc3NzQ1ODg4/MHNoYXJrLWFuaW1h/dGlvbi0xNC5naWY.gif">
 
-- 🔭 I am working on **a cross-platform mobile app supporting people with ADHD in remembering and planning activities** as a part of the Multimedia project - **[thesis in works](https://docs.google.com/document/d/1QZDhjpHpvUpks-BnaOS6-vZWueYaAMX8V9Vsr_IXwts/edit?usp=sharing)**
+- 🔭 I am working on **"Design and implementation of an application dedicated to adults with ADHD, including strategies for dealing with procrastination, memory and attention management"** as a part of the Multimedia project - **[thesis in works](https://docs.google.com/document/d/1QZDhjpHpvUpks-BnaOS6-vZWueYaAMX8V9Vsr_IXwts/edit?usp=sharing)**
 
-- 🛠️ I’m currently specializing in **Software engineering and Multimedia**
+- 🛠️ I’m currently specializing in **Software engineering and Multimedia - [Design prototype of my mobile application CutCatADHD](https://marvelapp.com/prototype/1096jj5e)**
 
 - 🔍 I'm also interested in the topic of interaction - <b>especially semantics of social and digital interaction<b>
 
