@@ -6,9 +6,9 @@
 
 - 🛠️ I’m currently specializing in **Software engineering and Multimedia - [Design prototype of my mobile application CutCatADHD](https://marvelapp.com/prototype/1096jj5e)**
 
-- 🔍 I'm also interested in the topic of neurodivergence, psychoeducation and neurodevelopmental disorders - **especially for ADHD**
+- 🔍 I'm also interested in the topic of neurodivergence, psychoeducation and neurodevelopmental disorders - **especially ADHD**
 
-- 🧠 I want to devote myself to research and work on tools helping people with neurodevelopmental disorders such as ADHD or ASD
+- 🧠 I want to devote myself to **research and work on tools helping people with neurodevelopmental disorders** such as ADHD or ASD
 
 - ⚡ Fun facts **I'm pretty good at Sudoku 🔢** and **I was a part of [Open Cages Poland](https://www.otwarteklatki.pl/) -> <a href="https://pejot-my.sharepoint.com/:i:/g/personal/s20824_pjwstk_edu_pl/Eb_DASN8Ag9GlaFyJ5xhb7ABz5lKp6EelyUvdHaJ72NMuQ?e=1AtlTd" target="blank" alt="group photo of Open Cages Poland from CARE 2022">me (hosting) on CARE 2022</a> 🤓**
 
