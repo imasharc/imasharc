@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Antoni (you can call me Antek)</h1>
-<h3 align="center">A passionate backend & database developer from Poland</h3>
+<h3 align="center">A passionate developer from Poland</h3>
 <img align="right" alt="swimming shark gif" width="400" src="https://imgs.search.brave.com/TGldy7E6wxDZxgy3HEZggAPMDKOBHgilL_sI3mJunvo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9iZXN0/YW5pbWF0aW9ucy5j/b20vbWVkaWEvc2hh/cmtzLzc3NzQ1ODg4/MHNoYXJrLWFuaW1h/dGlvbi0xNC5naWY.gif">
 
 - 🔭 I am working on **"Design and implementation of an application dedicated to adults with ADHD, including strategies for dealing with procrastination, memory and attention management"** as a part of the Multimedia project - **[thesis in works](https://docs.google.com/document/d/1QZDhjpHpvUpks-BnaOS6-vZWueYaAMX8V9Vsr_IXwts/edit?usp=sharing)**
 
 - 🛠️ I’m currently specializing in **Software engineering and Multimedia - [Design prototype of my mobile application CutCatADHD](https://marvelapp.com/prototype/1096jj5e)**
 
-- 🔍 I'm also interested in the topic of interaction - <b>especially semantics of social and digital interaction<b>
+- 🔍 I'm also interested in the topic of neurodivergence, psychoeducation and neurodevelopmental disorders - **especially for ADHD**
 
-- 🤖 I am planning to shift my focus towards **Data Science**
+- 🧠 I want to devote myself to research and work on tools helping people with neurodevelopmental disorders such as ADHD or ASD
 
 - ⚡ Fun facts **I'm pretty good at Sudoku 🔢** and **I was a part of [Open Cages Poland](https://www.otwarteklatki.pl/) -> <a href="https://pejot-my.sharepoint.com/:i:/g/personal/s20824_pjwstk_edu_pl/Eb_DASN8Ag9GlaFyJ5xhb7ABz5lKp6EelyUvdHaJ72NMuQ?e=1AtlTd" target="blank" alt="group photo of Open Cages Poland from CARE 2022">me (hosting) on CARE 2022</a> 🤓**
 
