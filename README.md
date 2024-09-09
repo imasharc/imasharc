@@ -1,14 +1,15 @@
-<h1 align="center">Hi 👋, I'm Antoni (you can call me Antek)</h1>
+<h1 align="center">Hi 👋, I'm Antek</h1>
 <h3 align="center">A passionate developer from Poland</h3>
+<h3 align="center">Double engineer in SWE and Multimedia</h3>
 <img align="right" alt="swimming shark gif" width="400" src="https://imgs.search.brave.com/TGldy7E6wxDZxgy3HEZggAPMDKOBHgilL_sI3mJunvo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9iZXN0/YW5pbWF0aW9ucy5j/b20vbWVkaWEvc2hh/cmtzLzc3NzQ1ODg4/MHNoYXJrLWFuaW1h/dGlvbi0xNC5naWY.gif">
 
-- 🔭 I am working on **"Design and implementation of an application dedicated to adults with ADHD, including strategies for dealing with procrastination, memory and attention management"** as a part of the Multimedia project - **[thesis in works](https://docs.google.com/document/d/1QZDhjpHpvUpks-BnaOS6-vZWueYaAMX8V9Vsr_IXwts/edit?usp=sharing)**
+- 🔭 Multimedia project - **"Design and implementation of an application dedicated to adults with ADHD, including strategies for dealing with procrastination, memory and attention management"** - **[complete thesis](https://docs.google.com/document/d/1QZDhjpHpvUpks-BnaOS6-vZWueYaAMX8V9Vsr_IXwts/edit?usp=sharing)**
 
-- 🛠️ I’m currently specializing in **Software engineering and Multimedia - [Design prototype of my mobile application CutCatADHD](https://marvelapp.com/prototype/1096jj5e)**
+- 🛠️ Software and Database engineering project - **"How to efficiently connect people online? Implementing a social media platform that fosters software maintainability and collaboration between developers." - [complete thesis](https://docs.google.com/document/d/12JScNMTtzE-o2z3nql9wiOhPe0rlIFG2sg1Z7jdcJ7Y/edit?usp=sharing)**
 
-- 🔍 I'm also interested in the topic of neurodivergence, psychoeducation and neurodevelopmental disorders - **especially ADHD**
+- 🔍 I'm interested in understanding natural intelligence, cognition, mental order and disorder by recreating it with artificial one
 
-- 🧠 I want to devote myself to **research and work on tools helping people with neurodevelopmental disorders** such as ADHD or ASD
+- 🧠 **"By the engineering principles, recreating natural [life, intelligence, cognition, ...] leads to understanding of it and may lead to producing artificial one" - self**
 
 - ⚡ Fun facts **I'm pretty good at Sudoku 🔢** and **I was a part of [Open Cages Poland](https://www.otwarteklatki.pl/) -> <a href="https://pejot-my.sharepoint.com/:i:/g/personal/s20824_pjwstk_edu_pl/Eb_DASN8Ag9GlaFyJ5xhb7ABz5lKp6EelyUvdHaJ72NMuQ?e=1AtlTd" target="blank" alt="group photo of Open Cages Poland from CARE 2022">me (hosting) on CARE 2022</a> 🤓**
 
