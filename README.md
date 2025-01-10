@@ -7,18 +7,15 @@
 
 - 🛠️ Software and Database engineering project - **"How to efficiently connect people online? Implementing a social media platform that fosters software maintainability and collaboration between developers." - [complete thesis](https://docs.google.com/document/d/12JScNMTtzE-o2z3nql9wiOhPe0rlIFG2sg1Z7jdcJ7Y/edit?usp=sharing)**
 
-- 🔍 I'm interested in understanding natural intelligence, cognition, mental order and disorder by recreating it with artificial one
-
-- 🧠 **"By the engineering principles, recreating natural [life, intelligence, cognition, ...] leads to understanding of it and may lead to producing artificial one" - self**
+- 🔍 I'm interested in letting go off the control that chokes the internet. I will fight whoever unrightfully requests to have it. So, I build. [quote this](https://mastodon.social/@dansup/101775908584104648)
 
 - ⚡ Fun facts **I'm pretty good at Sudoku 🔢** and **I was a part of [Open Cages Poland](https://www.otwarteklatki.pl/) -> <a href="https://pejot-my.sharepoint.com/:i:/g/personal/s20824_pjwstk_edu_pl/Eb_DASN8Ag9GlaFyJ5xhb7ABz5lKp6EelyUvdHaJ72NMuQ?e=1AtlTd" target="blank" alt="group photo of Open Cages Poland from CARE 2022">me (hosting) on CARE 2022</a> 🤓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <p align="left"> <a href="https://twitter.com/imasharc_" target="blank"><img src="https://img.shields.io/twitter/follow/imasharc_?logo=twitter&style=for-the-badge" alt="imasharc" /></a> </p>
-<a href="https://www.instagram.com/jatoantek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram account of imasharc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/antoni-malinowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin account of antoni malinowski" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12322728/imasharc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow account of imasharc" height="30" width="40" /></a>
+<a href="https://mastodon.social/@sharc" target="blank"><img align="center" src="https://joinmastodon.org/logos/logo-purple.svg" alt="my mastodon account" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/antoni-malinowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="my linkedin account" height="40" width="40" /></a>
+<a href="https://antonimalinowski.pl/blog/" target="blank"><img align="center" src="https://imgs.search.brave.com/ToWNlRWXproMftYNH5MfyXy8mNoXgEMNQYs_nF7hMRU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi85Lzk4L1dv/cmRQcmVzc19ibHVl/X2xvZ28uc3ZnLzY0/MHB4LVdvcmRQcmVz/c19ibHVlX2xvZ28u/c3ZnLnBuZw" alt="my wordpress blog" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
