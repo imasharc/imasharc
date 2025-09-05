@@ -17,4 +17,6 @@
 </ul>
 
 <h2>I am also currently writing Master's thesis on "Increasing User Understanding of Mobile Application Data Processing: A Framework for Transparency and Informed Decision-Making" @PJAIT</h2>
-<h2>On the side I'm working with Vega, 'Internet. Czas Działać!' and learning to write beautiful code with Ruby and Rails framework</h2>
+<h2>On the side I'm working with Vega, 'Internet. Czas Działać!' and .NET platform (ASP.NET and C#)</h2>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imasharc" alt="imasharc" /></a> </p>
